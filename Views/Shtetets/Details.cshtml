@@ -1,0 +1,30 @@
+﻿@model TheTjerrs.Models.Shtetet
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Shtetet</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmriShtetit)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmriShtetit)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumriBanorve)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumriBanorve)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ShtetiId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

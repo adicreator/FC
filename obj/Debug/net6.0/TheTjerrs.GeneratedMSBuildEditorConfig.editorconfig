@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TheTjerrs
+build_property.RootNamespace = TheTjerrs
+build_property.ProjectDir = C:\Users\Lenovo\source\repos\TheTjerrs\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo\source\repos\TheTjerrs
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsczFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsczFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsczFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsczFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsczFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/AnketatEpolls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5rZXRhdEVwb2xsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/ExitPolls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhpdFBvbGxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/ExitPolls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhpdFBvbGxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/ExitPolls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhpdFBvbGxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/ExitPolls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhpdFBvbGxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/ExitPolls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhpdFBvbGxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Partites/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGl0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Partites/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGl0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Partites/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGl0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Partites/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGl0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Partites/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGl0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Pyetjas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHlldGphc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Pyetjas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHlldGphc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Pyetjas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHlldGphc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Pyetjas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHlldGphc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Pyetjas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHlldGphc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shtetets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2h0ZXRldHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shtetets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2h0ZXRldHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shtetets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2h0ZXRldHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shtetets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2h0ZXRldHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shtetets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2h0ZXRldHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/source/repos/TheTjerrs/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y7hea21akz
